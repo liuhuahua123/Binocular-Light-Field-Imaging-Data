@@ -7,6 +7,8 @@ The binocular-LF database contains synthetic samples rendered by applying the _B
 
 Furthermore, a simple synthetic scene with only three parallel planes is presented for simulation experiment. It is named __“training_16”__. The number of labels is __16__.
 
+![synthetic samples](/imgs/synthetic_data.png)
+
 For each synthetic sample, we provide:
 1. __Raw_LF_data folder:__ the Left LF data and the Right LF data in the resolution _13x13x512x512x3_.
 2. __LF_GT_data folder:__ the Left LF and Right LF ground truth depth maps and disparity maps in the .pfm format; the camera settings and disparity ranges in the .cfg format.
