@@ -7,6 +7,7 @@ The binocular-LF database contains synthetic samples rendered by applying the _B
 
 Furthermore, a simple synthetic scene with only three parallel planes is presented for simulation experiment. It is named __“training_16”__. The number of labels is __16__.
 
+* Synthetic Samples 
 ![synthetic samples](/imgs/synthetic_data.png)
 
 For each synthetic sample, we provide:
