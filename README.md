@@ -1,6 +1,7 @@
 # Binocular-Light-Field-Imaging-Data
 
-This repository provides the Binocular-LF database developed in the paper __“Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application”.__
+This repository provides the Binocular-LF database developed in the paper 
+#### “Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application”.####
 
 The binocular-LF database contains synthetic samples rendered by _Blender_ and real-world scenes captured by a binocular-LF system using the _Lytro Illum camera_. The number of labels is __64__. 
 
