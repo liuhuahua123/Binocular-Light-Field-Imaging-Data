@@ -3,7 +3,7 @@
 This repository provides the Binocular-LF database developed in the paper 
 ### “Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application”.
 
-The binocular-LF database contains synthetic samples rendered by _Blender_ and real-world scenes captured by a binocular-LF system using the _Lytro Illum camera_. The number of labels is __64__. 
+The binocular-LF database contains synthetic samples rendered by applying the _Blender add-on setup_ from Honauer et al. [lightfield_benchmark_accv_2016](http://lightfield-analysis.net/benchmark/paper/lightfield_benchmark_accv_2016.pdf) and real-world scenes captured by a binocular-LF system using the _Lytro Illum camera_. The number of labels is __64__.
 
 Furthermore, a simple synthetic scene with only three parallel planes is presented for simulation experiment. It is named __“training_16”__. The number of labels is __16__.
 
