@@ -3,7 +3,6 @@
 This repository provides the Binocular-LF database developed in the paper 
 ### “Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application”.
 
-
 The binocular-LF database contains synthetic samples rendered by _Blender_ and real-world scenes captured by a binocular-LF system using the _Lytro Illum camera_. The number of labels is __64__. 
 
 Furthermore, a simple synthetic scene with only three parallel planes is presented for simulation experiment. It is named __“training_16”__. The number of labels is __16__.
@@ -15,3 +14,7 @@ For each synthetic sample, we provide:
 4. __LF_GT_Occlusion:__ the LF ground truth occlusion map.
 5. __LF_GT_Occlusion_dilate:__ the LF ground truth occlusion map with dilating_param = 1.
 6. __SV_GT_Occlusion:__ the SV ground truth occlusion map.
+
+For each real-world scene, we provide the Left LF data and the Right LF data in the resolution _9x9x400x600x3_.
+
+The database will be enlarged in the future.
