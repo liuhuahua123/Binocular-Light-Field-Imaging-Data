@@ -12,7 +12,8 @@ Furthermore, a simple synthetic scene with only three parallel planes is present
 * __Synthetic Samples__ 
 ![synthetic samples](/imgs/synthetic_data.png)
 
-* __Training_16__ 
+* __Training_16__
+
 ![training](/imgs/training_16.png)
 
 * For each synthetic sample, we provide:
