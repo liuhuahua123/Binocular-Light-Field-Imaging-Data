@@ -28,6 +28,7 @@ Furthermore, a simple synthetic scene with only three parallel planes is present
 ![real-world](/imgs/real-world_data.png)
 
 * For each real-world scene, we provide the Left LF data and the Right LF data in the resolution _9x9x400x600x3_.
+
 The imaging parameters are:
 1. Equivalent Focal Length: 90mm (Practical Focal Length: 28.3mm)
 2. Focus Length: 850mm
